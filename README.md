@@ -1,2 +1,2 @@
 # foxbyte.temp
-temporary repository
+Repository for temporary files.
